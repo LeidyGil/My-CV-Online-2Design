@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    color: brown
+}
+
+h2, h3{
+    color:burlywood;
+}
+
+p{
+    color: brown
+}
+
+ul li{
+    border-bottom: 2px solid burlywood;
+    color: brown;
+}
+
+.general{
+    padding: 2%;
+    margin-left: 25%;
+    margin-bottom: 1%;
+    border: 3px solid burlywood;
+}
+
+.menu, .option{
+    float: left;
+}
+
+.options{
+    background-color: coral;
+}
+
+.image-portafolio{
+    float: left;
+}
